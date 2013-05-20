@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+*.xml
+*.iml
+*.ids
+*.db
+.name
+test.*
